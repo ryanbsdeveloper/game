@@ -1,4 +1,4 @@
-from models.calcular import Calcular
+from calcular import Calcular
 from time import sleep
 
 
